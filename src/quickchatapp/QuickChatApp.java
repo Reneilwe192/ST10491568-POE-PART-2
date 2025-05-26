@@ -201,5 +201,6 @@ public class QuickChatApp {
     }
 }
 
-            
+//Reference: Java Programming. Tenth Edition. 2023. Farrell.J. AND ChatGTP (OpenAI's AI assistant)
+
     
